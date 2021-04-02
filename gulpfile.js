@@ -59,7 +59,7 @@ gulp.task("watch", () => {
         extensions: ["html"]
       }
     },
-    port: 4005,
+    port: 4010,
     notify: true
   });
 
